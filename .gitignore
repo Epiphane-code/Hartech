@@ -3,4 +3,5 @@ package.json
 node_modules
 .DS_Store
 .hintrc
-style
+style/output.css
+style/input.css
